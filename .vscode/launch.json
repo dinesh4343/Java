@@ -1,0 +1,153 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "Character_odd_place",
+            "request": "launch",
+            "mainClass": "Character_odd_place",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "Consecutive2vowels",
+            "request": "launch",
+            "mainClass": "Consecutive2vowels",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "FindChar",
+            "request": "launch",
+            "mainClass": "FindChar",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "LastChar",
+            "request": "launch",
+            "mainClass": "LastChar",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfSpaces",
+            "request": "launch",
+            "mainClass": "NumberOfSpaces",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "OddOrEven",
+            "request": "launch",
+            "mainClass": "OddOrEven",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "Primary_Colors_Addition",
+            "request": "launch",
+            "mainClass": "Primary_Colors_Addition",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "RemoveDuplicate",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "SmallLetterCount",
+            "request": "launch",
+            "mainClass": "SmallLetterCount",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "SpacesAndCharacters",
+            "request": "launch",
+            "mainClass": "SpacesAndCharacters",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePattern1",
+            "request": "launch",
+            "mainClass": "TrianglePattern1",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePattern2",
+            "request": "launch",
+            "mainClass": "TrianglePattern2",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "TrianglePattern3",
+            "request": "launch",
+            "mainClass": "TrianglePattern3",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "VowelInFirst",
+            "request": "launch",
+            "mainClass": "VowelInFirst",
+            "projectName": "Java_47b622f8"
+        }
+    ]
+}
