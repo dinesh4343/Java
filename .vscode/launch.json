@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "TrianglePattern4",
+            "request": "launch",
+            "mainClass": "TrianglePattern4",
+            "projectName": "Java_47b622f8"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
