@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerOfNumbers",
+            "request": "launch",
+            "mainClass": "PowerOfNumbers",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "reverseDigits",
             "request": "launch",
             "mainClass": "reverseDigits",
