@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllDivisorsOfANumber",
+            "request": "launch",
+            "mainClass": "AllDivisorsOfANumber",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "PowerOfNumbers",
             "request": "launch",
             "mainClass": "PowerOfNumbers",
