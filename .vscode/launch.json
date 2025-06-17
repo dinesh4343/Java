@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayInput",
+            "request": "launch",
+            "mainClass": "ArrayInput",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "AllDivisorsOfANumber",
             "request": "launch",
             "mainClass": "AllDivisorsOfANumber",
