@@ -1,3 +1,5 @@
+//code to sort an array of integers in ascending order using bubble sort algorithm
+
 import java.util.*;
 
 public class Sorting {
