@@ -28,5 +28,12 @@ public class Sorting {
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " "); // Print each element of the sorted array
         }
+
+
+
+
+
+
+        
     }
 }
