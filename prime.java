@@ -7,9 +7,13 @@ public class prime {
 
         int n = sc.nextInt();
 
-        int c = 0;
+        
 
         for (int i = 2; i <= n; i++) {
+
+            int c=0;
+
+            for(int j=)
 
         }
     }
