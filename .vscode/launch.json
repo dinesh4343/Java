@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructorsDemo",
+            "request": "launch",
+            "mainClass": "ConstructorsDemo",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
+            "name": "ClassExample",
+            "request": "launch",
+            "mainClass": "ClassExample",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "FlipTheCards",
             "request": "launch",
             "mainClass": "FlipTheCards",
