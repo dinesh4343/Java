@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GetterandSetter",
+            "request": "launch",
+            "mainClass": "GetterandSetter",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "ConstructorsDemo",
             "request": "launch",
             "mainClass": "ConstructorsDemo",
