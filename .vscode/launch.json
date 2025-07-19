@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindingSquareRoots",
+            "request": "launch",
+            "mainClass": "FindingSquareRoots",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "ReachonTime",
             "request": "launch",
             "mainClass": "ReachonTime",
