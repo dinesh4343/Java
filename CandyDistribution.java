@@ -1,4 +1,6 @@
 
+// CandyDistribution.java
+//In olden days, distributing candies evenly among friends seemed to be a challenge, but nowadays it can be easily checked using simple arithmetic operations.
 import java.util.Scanner;
 
 public class CandyDistribution {
