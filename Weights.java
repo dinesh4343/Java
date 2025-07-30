@@ -31,6 +31,7 @@ YES
 YES
 NO
 */
+
 import java.util.Scanner;
 
 public class Weights {
