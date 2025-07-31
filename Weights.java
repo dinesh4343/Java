@@ -51,7 +51,7 @@ public class Weights {
             int z = sc.nextInt();
 
             System.out.println(
-                    x + y == w || x + z == w || y + z == w || x == w || y == w || z == w || x + y + z == w ? "YES"
+                    x + y == w || x + z == w || y + z == w || x == w || y == w || z == w || x + y + z == w ? "YES "
                             : "NO");
 
         }
