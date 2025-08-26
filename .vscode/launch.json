@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Weights",
+            "request": "launch",
+            "mainClass": "Weights",
+            "projectName": "Java_47b622f8"
+        },
+        {
+            "type": "java",
             "name": "FindingSquareRoots",
             "request": "launch",
             "mainClass": "FindingSquareRoots",
